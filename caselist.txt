@@ -1,0 +1,14 @@
+testcase/test_Associationanalysis
+testcase/test_Normalization_cl
+testcase/test_Normalization_sjzd
+testcase/test_Normalization_ysb
+testcase/test_Normalization_zd
+#testcase/test_Assets_zcgl
+testcase/test_Aashboardshijian_sj_dict
+testcase/test_Aashboardshijian_sj
+testcase/test_Aashboardshijian_wd_dict
+testcase/test_Aashboardshijian_wd
+testcase/test_Equipmentlist_equipment
+testcase/test_Outgoingdata
+testcase/test_Organization_dict
+testcase/test_Organization_dy
